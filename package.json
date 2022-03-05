@@ -1,0 +1,23 @@
+{
+    "name": "portafolio_rob",
+    "version": "1.0.0",
+    "description": "My personal portfolio.",
+    "main": "index.js",
+    "scripts": {
+        "start": " node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/RobertAL95/portafolio_Rob.git"
+    },
+    "keywords": [],
+    "author": "Robert Machado <robert.20.ven@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/RobertAL95/portafolio_Rob/issues"
+    },
+    "homepage": "https://github.com/RobertAL95/portafolio_Rob#readme",
+    "dependencies": {
+        "node": "^17.5.0"
+    }
+}
